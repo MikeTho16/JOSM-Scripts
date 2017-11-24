@@ -39,7 +39,6 @@ This script is open source and licensed under GPL.
             // First and last are the same, so do not have to examine the last
             for (k = 0; k < (count - 1); k++)
             {
-                console.println("    node");
                 middleNode = nodes[k];
                 if (k == 0)
                 {
