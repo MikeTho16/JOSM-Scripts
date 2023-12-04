@@ -10,3 +10,8 @@ Scripts for use with OpenStreetMap's JOSM editor.
 - Selects the elements in the "target" layer
 - Sets the active layer to the "target" layer and makes it visible
 - Makes the "source" layer not visible
+- You must have one layer named "sorce" and one named "target"
+
+## Zm2Clpbrd.py
+- Zooms/pans the map to the coordinates currently on the clipboard.
+- The coordinates must be in the format latitude, longitude
